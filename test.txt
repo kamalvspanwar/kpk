@@ -6,4 +6,7 @@ Pencil
 sharpner
 
 
+scale
+rubber
+
 thank you
